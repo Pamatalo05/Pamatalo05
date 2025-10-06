@@ -65,6 +65,7 @@ Durante mi formación, he utilizado y aprendido las siguientes herramientas y fr
 ## 📬 Contacto
 
 ✉️ **Correo institucional:** pmtapia@espol.edu.ec  
-🌐 **Sitio desplegado en GitHub Pages:** [https://pamatalo05.github.io](https://pamatalo05.github.io)  
+🌐 **Sitio desplegado en GitHub Pages:** [https://pamatalo05.github.io/Pamatalo05/](https://pamatalo05.github.io/Pamatalo05/)  
 📎 **Código QR del sitio:**  
 ![QR del sitio](qr_portafolio.png)
+
