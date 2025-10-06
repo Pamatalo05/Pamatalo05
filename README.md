@@ -21,7 +21,7 @@ Este es mi **portafolio personal**, donde encontrarás algunos de mis proyectos 
 **Estado:** 🟢 En desarrollo  
 **Tecnologías utilizadas:** Java, JUnit, GitHub Desktop, HTML
 
-🔗 [Ver repositorio](https://github.com/Pamatalo05/ENVIVOTickets)
+🔗 [Ver repositorio](https://github.com/Pamatalo05/Sistema-ENVIVOTICKETS)
 
 ---
 
@@ -30,7 +30,7 @@ Este es mi **portafolio personal**, donde encontrarás algunos de mis proyectos 
 **Estado:** ✅ Completado  
 **Tecnologías utilizadas:** Java, JavaFX, GitHub  
 
-🔗 [Ver repositorio](https://github.com/Pamatalo05/ecommerce-web)
+🔗 [Ver repositorio](https://github.com/Pamatalo05/CONTACT-APP)
 
 ---
 
@@ -39,7 +39,7 @@ Este es mi **portafolio personal**, donde encontrarás algunos de mis proyectos 
 **Estado:** ✅ Completado  
 **Tecnologías utilizadas:** Python (Tkinter), MySQL, GitHub Desktop  
 
-🔗 [Ver repositorio](https://github.com/Pamatalo05/game3d)
+🔗 [Ver repositorio](https://github.com/Pamatalo05/LMR-TOURS)
 
 ---
 
