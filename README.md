@@ -15,24 +15,6 @@ Aquí están algunos de mis proyectos favoritos. Haz clic en los enlaces para ex
 
 ---
 
-### 2. **🛒 [E-Commerce Web](https://github.com/tuusuario/e-commerce)**
-   - **Descripción:** Plataforma de compras online con carrito de compras, pasarela de pago y gestión de productos.
-   - **Tecnologías utilizadas:** React, Redux, Node.js, Stripe
-   - **Estado:** 🏁 Completado
-   - **Demo en vivo:** [Ver Demo](https://enlace-a-tu-demo.com)
-
-   ![E-Commerce](./screenshots/ecommerce.png)
-
----
-
-### 3. **🎮 [Juego Interactivo en 3D](https://github.com/tuusuario/juego3D)**
-   - **Descripción:** Un juego interactivo en 3D desarrollado con WebGL y Three.js.
-   - **Tecnologías utilizadas:** Three.js, WebGL, HTML5
-   - **Estado:** ⚙️ Mantenimiento
-   - **Demo en vivo:** [Ver Demo](https://enlace-a-tu-demo.com)
-
-   ![Juego 3D](./screenshots/juego3D.png)
-
 
 
 
