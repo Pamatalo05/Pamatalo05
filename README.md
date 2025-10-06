@@ -33,17 +33,7 @@ Aquí están algunos de mis proyectos favoritos. Haz clic en los enlaces para ex
 
    ![Juego 3D](./screenshots/juego3D.png)
 
----
 
-## 🛠️ **Tecnologías**
-
-Estas son las herramientas y tecnologías que he usado a lo largo de mis proyectos:
-
-- **Frontend:** React, Vue.js, Tailwind CSS, Sass
-- **Backend:** Node.js, Express, Django
-- **Bases de Datos:** MySQL
-- **DevOps:** Docker, Jenkins, GitHub Actions
-- **Otros:** Webpack, Nginx, Firebase
 
 
 
