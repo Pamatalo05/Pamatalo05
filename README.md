@@ -1,36 +1,65 @@
-## 💻 **Mi Repositorio Personal** 🚀
+# 👋 Paulo Tapia - Portafolio
 
-¡Bienvenido a mi espacio de proyectos! Aquí encontrarás una colección de mis trabajos más destacados como desarrollador. 🚀
+Soy estudiante de **Ciencias de la Computación en la Escuela Superior Politécnica del Litoral (ESPOL)**.  
+Me apasiona el desarrollo de software, la ciberseguridad y el análisis de datos. Busco crear soluciones tecnológicas que optimicen procesos y mejoren la comunicación entre usuarios.  
 
-
-## 📂 **Proyectos**
-
-Aquí están algunos de mis proyectos favoritos. Haz clic en los enlaces para explorar cada uno de ellos.
-
-### 1. **🎟️ [Sistema ENVIVOTickets](https://github.com/RoberB1/Tarea2--EnVivoTickets)**
-   - **Descripción:** Gestiona tickets de conciertos.
-   - **Tecnologías utilizadas:** Java, JUnit
-   - **Estado:** 🏗️ En Progreso
-   ![Sistema ENVIVOTickets](./screenshots/tarea.png)
+Este es mi **portafolio personal**, donde encontrarás algunos de mis proyectos en desarrollo y las tecnologías que he aprendido a lo largo de mi carrera.  
 
 ---
 
+## 🗂️ Estructura del repositorio
 
+- 📄 `README.md`: Contiene la presentación, proyectos y tecnologías aprendidas.  
+- 🧾 `qr_portafolio.png`: Código QR que redirige al sitio desplegado con GitHub Pages.
 
+---
 
+## 💻 Proyectos
 
+### 🎟️ **Sistema ENVIVOTickets**
+**Descripción:** Plataforma web que permite gestionar eventos, registrar asistentes y vender entradas en línea para conciertos.  
+**Estado:** 🟢 En desarrollo  
+**Tecnologías utilizadas:** Java, JUnit, GitHub Desktop  
+🔗 [Ver repositorio](https://github.com/Pamatalo05/ENVIVOTickets)
 
-<!--
-**Pamatalo05/Pamatalo05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📇 **CONTACT_APP**
+**Descripción:** Aplicación para la gestión de contactos, utilizando conceptos básicos de estructuras de datos.  
+**Estado:** ✅ Completado  
+**Tecnologías utilizadas:** Java, JavaFX, GitHub  
+🔗 [Ver repositorio](https://github.com/Pamatalo05/ecommerce-web)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌍 **Plataforma de gestión de datos para LMRTOURS**
+**Descripción:** Sistema para administrar información de personas interesadas en adquirir boletos de aerolíneas, además de ofrecer planes turísticos y gestionar empleados.  
+**Estado:** ✅ Completado  
+**Tecnologías utilizadas:** Python (Tkinter), MySQL, GitHub Desktop  
+🔗 [Ver repositorio](https://github.com/Pamatalo05/game3d)
+
+---
+
+## 🧰 Tecnologías y herramientas aprendidas
+
+Durante mi formación, he utilizado y aprendido las siguientes herramientas y frameworks:
+
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Lenguajes de programación** | Java, Python |
+| **Frontend / GUI** | JavaFX, Tkinter |
+| **Testing** | JUnit |
+| **Bases de datos** | MySQL |
+| **Control de versiones** | Git, GitHub |
+| **Herramientas de escritorio** | GitHub Desktop |
+
+💡 *Estas tecnologías me han permitido desarrollar proyectos completos, desde la interfaz hasta la lógica de la aplicación y la gestión de datos.*
+
+---
+
+## 📬 Contacto
+
+✉️ **Correo institucional:** pmtapia@espol.edu.ec  
+🌐 **Sitio desplegado en GitHub Pages:** [https://pamatalo05.github.io](https://pamatalo05.github.io)  
+📎 **Código QR del sitio:**  
+![QR del sitio](qr_portafolio.png)
